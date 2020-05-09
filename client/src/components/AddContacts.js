@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 
 export default class AddContacts extends Component {
+
     submitContact(event) {
         event.preventDefault();
 

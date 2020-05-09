@@ -4,6 +4,7 @@ Create client folder with react app
 ### `npx create-react-app client`
 
 ### `cd client`
+### `npm install`
 ### `npm start`
 
 Runs the app in the development mode.<br>

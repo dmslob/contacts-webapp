@@ -13,6 +13,7 @@ import java.util.Collection;
 @RequestMapping("/api")
 @CrossOrigin(origins = "http://localhost:3000")
 public class ContactsController {
+
     private ContactRepository contactRepository;
 
     public ContactsController(ContactRepository contactRepository) {

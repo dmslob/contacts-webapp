@@ -1,7 +1,9 @@
 import React from 'react';
 
 const SingleContact = ({item}) => (
+
     <div className="row">
+        {console.log('item: ', item)}
         <div className="col s12 m6">
             <div className="card blue-grey darken-1">
                 <div className="card-content white-text">
